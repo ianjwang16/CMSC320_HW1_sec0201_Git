@@ -11,3 +11,7 @@ Answer: Data science can be applied to finance. For example, transaction data ca
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the changes from two branches and may create an additional merge commit, while rebasing replays commits from one branch onto another to create a more linear commit history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning how to analyze real-world datasets and use data science tools to analyze those datasets
